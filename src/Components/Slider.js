@@ -32,7 +32,7 @@ function Slider() {
                 <Fade bottom>
                 <h4 className="slider-left-h4">A passionate Frontend Web Developer 
                 having an experience of building
-                 Web applications with JavaScript / Reactjs / and some other cool liabraies</h4>
+                 Web applications with JavaScript / Reactjs /</h4>
                  </Fade>
 
             </div>
