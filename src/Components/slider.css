@@ -1,0 +1,65 @@
+.slider {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #1180ef;
+}
+.slider-left {
+  width: 500px;
+  height: 300px;
+}
+.slider-left-h1 {
+  font-size: 40px;
+  font-family: "Poppins";
+  color: white;
+  font-weight: 900;
+}
+.slider-left-h4 {
+  font-size: 20px;
+  font-family: "Roboto";
+  color: white;
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+.slider-right {
+  width: 500px;
+  height: 500px;
+}
+.lottie-img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+@media screen and (max-width: 786px) {
+  .slider-left {
+    width: 400px;
+    height: 400px;
+    margin-top: 80px;
+  }
+  .slider-left-h1 {
+    font-size: 30px;
+    font-family: "Poppins";
+    color: white;
+    font-weight: 900;
+  }
+  .slider-left-h4 {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: white;
+    font-weight: 300;
+    letter-spacing: 3px;
+  }
+  .slider-right {
+    width: 400px;
+    height: 400px;
+    margin-top: -150px;
+  }
+  .lottie-img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+  }
+}
