@@ -8,7 +8,7 @@
   background-color: #1180ef;
 }
 .slider-left {
-  width: 400px;
+  width: 500px;
   height: 300px;
 }
 .slider-left-h1 {
@@ -38,10 +38,13 @@
     width: 400px;
     height: 400px;
     margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   .slider-left-h1 {
     font-size: 30px;
     font-family: "Poppins";
+    text-align: center;
     color: white;
     font-weight: 900;
   }
