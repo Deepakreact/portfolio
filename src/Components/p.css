@@ -6,12 +6,26 @@
   align-items: center;
   background-color: rgb(197, 193, 193, 0.4);
 }
+.p-h1 {
+  text-transform: uppercase;
+  font-family: "Poppins";
+}
+.p-h1::after {
+  content: " ";
+  display: block;
+  width: 100px;
+  height: 4px;
+  background-color: blue;
+  margin-left: 40px;
+  margin-top: 20px;
+}
 .p-c {
   width: 100vw;
   height: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  margin-bottom: 20px;
 }
 .p-card {
   width: 300px;

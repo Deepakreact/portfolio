@@ -39,6 +39,10 @@ function App() {
 
 
         </Switch>
+        <div className="footer">
+        <p>@Copyright created & Developed By Deepak Sharma</p>
+        
+        </div>
 
 
 

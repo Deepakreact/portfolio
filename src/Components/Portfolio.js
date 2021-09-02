@@ -18,7 +18,7 @@ function Portfolio() {
     }
     return (
         <div className="p">
-        <h1>Portfolio</h1>
+        <h1 className="p-h1">Portfolio</h1>
         <div className="p-c">
         {
             portfolio.map((x)=>
