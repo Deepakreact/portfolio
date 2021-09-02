@@ -1,15 +1,21 @@
 export const portfolio=[
-    {
-        image:'pimages/p12.jpg'
-    },
+
     {
         image:'pimages/p1.jpg',
         link:'https://futurelinksastro.com/'
     },
+     
     {
-        image:'pimages/p2.jpg',
-        link:'https://sbfngo.com/'
+        image:'pimages/p8.jpg',
+        link:'https://propertysolution.netlify.app/'
     },
+    {
+        image:'pimages/p11.jpg',
+        link:'https://vishalfilm.netlify.app/'
+      
+    },
+ 
+ 
     {
         image:'pimages/p3.jpg',
         link:'https://dburger.netlify.app/'
@@ -21,20 +27,8 @@ export const portfolio=[
 
     },
     {
-        image:'pimages/p5.jpg',
-        link:'https://getshape.netlify.app/'
-    },
-    {
         image:'pimages/p6.jpg',
         link:'https://dcart.netlify.app/'
-    },
-    {
-        image:'pimages/p7.jpg',
-        link:'https://propertysolution.netlify.app/'
-    },
-    {
-        image:'pimages/p8.jpg',
-        link:'https://propertysolution.netlify.app/'
     },
     {
         image:'pimages/p9.jpg',
@@ -46,10 +40,16 @@ export const portfolio=[
         
     },
     {
-        image:'pimages/p11.jpg',
-        link:'https://vishalfilm.netlify.app/'
-      
+        image:'pimages/p2.jpg',
+        link:'https://sbfngo.com/'
     },
+
+    {
+        image:'pimages/p5.jpg',
+        link:'https://getshape.netlify.app/'
+    }
+ 
+ 
  
 
 

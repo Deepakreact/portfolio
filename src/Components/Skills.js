@@ -9,7 +9,10 @@ function Skills() {
         <div className="skill-c">
         <div className="skill-c-left">
         <p>Passionate Web developer who wants to explore technology stack</p>
-        <p>Willing to learn,open to ideas,</p>
+        <p>Constantly learning and improving. In a fast moving industry 
+        like ours, staying on top of your game means you never stop learning.</p>
+        <p>Keeping up to date with the industry. 
+        Being able to manage time and prioritize. .</p>
         <p>Good communication skills,team buiding</p>
         
         </div>

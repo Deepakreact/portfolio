@@ -26,6 +26,9 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
+.skill-c-left {
+  width: 500px;
+}
 .skill-c-left p {
   padding: 10px;
   box-sizing: border-box;
