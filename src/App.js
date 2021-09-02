@@ -13,7 +13,7 @@ function App() {
       <div className="App">
         <header>
           <div className="left">
-            <img src="logo3.png" alt="" className="logo"></img>
+            <img src="logo2.png" alt="" className="logo"></img>
 
           </div>
           <div className="right">
