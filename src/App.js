@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter as Router, Switch, Link, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import HomePage from './Components/HomePage';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
@@ -18,10 +18,7 @@ function App() {
           </div>
           <div className="right">
             <ul className="site-links">
-              <Link to="/">Home</Link>
-              <Link to="/about">About</Link>
-              <Link to="/portfolio">Portfolio</Link>
-              <Link to="/contact">Contact</Link>
+          
             </ul>
             <ul className="social-links">
               <a href="/"><FacebookIcon /></a>

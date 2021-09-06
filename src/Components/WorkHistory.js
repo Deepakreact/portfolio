@@ -34,7 +34,7 @@ function WorkHistory() {
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>Virtual World Films</h4>
+        <h4>D Jash World of Entertainment</h4>
         
         </div>
         <div className="designation">
