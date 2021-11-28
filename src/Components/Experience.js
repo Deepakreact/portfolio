@@ -33,10 +33,10 @@ function Experience() {
         </div>
         <div className="ex-c-left">
      
-        <p>1 year experience in 
+        <p>experience in 
         developing websites in React JS development enviornment</p>
-        <p> 1 year experience in front-end development & deployement</p>
-        <p>1 year experience in 
+        <p> experience in front-end development & deployement</p>
+        <p>experience in 
         integration of React JS with REST Framework</p>
         <p>Develop websites for different domains </p>
         <p>Experience in developing responsive UI/UX</p>
