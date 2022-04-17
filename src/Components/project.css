@@ -7,3 +7,11 @@
     height: 300px;
     object-fit: contain;
 }
+@media screen and (max-width:786px) {
+    .pr-img{
+        width: 350px;
+        height: 250px;
+        object-fit: contain;
+    }
+    
+}
