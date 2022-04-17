@@ -28,8 +28,8 @@
   margin-bottom: 20px;
 }
 .p-card {
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 240px;
   margin-top: 10px;
   position: relative;
   overflow: hidden;
@@ -54,14 +54,14 @@
 }
 .p-card-overlay-c h3 {
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   font-family: 'Roboto';
   font-weight: 300;
   letter-spacing: 3px;
 }
 .p-card-overlay-c h1 {
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   font-family: 'Roboto';
   font-weight: 300;
   letter-spacing: 3px;
@@ -80,7 +80,7 @@
   font-weight: 300;
   letter-spacing: 3px;
   padding: 5px;
-  width: 100px;
+  width: 150px;
   background-color: rgb(15, 15, 15, 0.5);
   border: 1px solid white;
   color: white;

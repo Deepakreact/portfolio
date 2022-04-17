@@ -7,6 +7,7 @@ import Zoom from 'react-reveal/Zoom'
 import Modal from 'react-modal'
 
 
+
 function Portfolio() {
     const [obj, setObj] = useState(null)
 
@@ -20,11 +21,15 @@ function Portfolio() {
         <div className="p">
         <h1 className="p-h1">Portfolio</h1>
         <div className="p-c">
+        
         {
             portfolio.map((x)=>
             <div className="p-card">
             <Zoom>
+            
             <img src={x.image} alt="" className="p-card-img"></img>
+            
+           
             </Zoom>
             <div className="p-card-overlay">
             <div  className="p-card-overlay-c">

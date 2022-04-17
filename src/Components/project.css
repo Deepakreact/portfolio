@@ -1,0 +1,9 @@
+.project{
+    background-color: rgb(2, 9, 29);
+}
+
+.pr-img{
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+}
