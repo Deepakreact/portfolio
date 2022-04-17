@@ -29,12 +29,12 @@ function Portfolio() {
             <div className="p-card-overlay">
             <div  className="p-card-overlay-c">
             <h3>Technology</h3>
-            <h1>React Js</h1>
+            <h1>{x.tech}</h1>
 
             <a href={x.link}>
             <button className="po-btn">view site</button>
             </a>
-            <button className="po-btn" onClick={()=>openModal(x)}>view details</button>
+            <button className="po-btn" onClick={()=>openModal(x)}>details</button>
             
             
      

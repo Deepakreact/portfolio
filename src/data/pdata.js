@@ -1,52 +1,69 @@
 export const portfolio=[
 
     {
+        image:'pimages/kkk.jpg',
+        link:'https://kattyenterprises.herokuapp.com/',
+        tech:'React Js,Redux, Django RestAPI, JWT, Material UI '
+
+    },
+
+    {
         image:'pimages/p1.jpg',
-        link:'https://futurelinksastro.com/'
+        link:'https://futurelinksastro.com/',
+        tech:'React Js'
     },
      
     {
         image:'pimages/p8.jpg',
-        link:'https://propertysolution.netlify.app/'
+        link:'https://propertysolution.netlify.app/',
+        tech:'React Js'
     },
     {
         image:'pimages/p11.jpg',
-        link:'https://vishalfilm.netlify.app/'
+        link:'https://vishalfilm.netlify.app/',
+        tech:'React Js'
       
     },
  
  
     {
         image:'pimages/p3.jpg',
-        link:'https://dburger.netlify.app/'
+        link:'https://dburger.netlify.app/',
+        tech:'React Js'
 
     },
     {
         image:'pimages/p4.jpg',
-        link:'https://dparlour.netlify.app/'
+        link:'https://dparlour.netlify.app/',
+        tech:'React Js'
 
     },
     {
         image:'pimages/p6.jpg',
-        link:'https://dcart.netlify.app/'
+        link:'https://dcart.netlify.app/',
+        tech:'React Js'
     },
     {
         image:'pimages/p9.jpg',
-        link:'https://ultimaterobot.netlify.app/'
+        link:'https://ultimaterobot.netlify.app/',
+        tech:'React Js'
     },
     {
         image:'pimages/p10.jpg',
-        link:'https://ddentist.netlify.app/'
+        link:'https://ddentist.netlify.app/',
+        tech:'React Js'
         
     },
     {
         image:'pimages/p2.jpg',
-        link:'https://sbfngo.com/'
+        link:'https://sbfngo.com/',
+        tech:'React Js'
     },
 
     {
         image:'pimages/p5.jpg',
-        link:'https://getshape.netlify.app/'
+        link:'https://getshape.netlify.app/',
+        tech:'React Js'
     }
  
  
