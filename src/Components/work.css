@@ -53,13 +53,16 @@
   color: white;
   word-spacing: 10px;
   letter-spacing: 2px;
+  font-size: 11px;
+  text-transform: uppercase;
 }
 .designation > h2 {
   text-transform: uppercase;
   color: white;
+  font-size: 15px;
 }
 .work-detail {
-  width: 400px;
+  width: 260px;
   height: auto;
   background-color: rgb(2, 9, 29);
   margin-left: auto;
@@ -78,6 +81,7 @@
 .company > h2 {
   text-transform: uppercase;
   color: white;
+  font-size: 15px;
 }
 .company > h4 {
   margin-left: 40px;
@@ -85,4 +89,6 @@
   color: white;
   word-spacing: 5px;
   letter-spacing: 2px;
+  font-size: 11px;
+  text-transform: uppercase;
 }

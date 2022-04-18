@@ -29,7 +29,7 @@ function Projects() {
     
     <div className='project'>
     
-    <Carousel responsive={responsive} autoPlaySpeed={300000}>
+    <Carousel responsive={responsive} autoPlaySpeed={300000} className='project-crousel'>
 
     {
         portfolio.map((x)=>

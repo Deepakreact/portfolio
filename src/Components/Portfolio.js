@@ -1,22 +1,18 @@
-import React,{useState} from 'react'
+import React from 'react'
 import { portfolio } from '../data/pdata'
 import './p.css'
 import Zoom from 'react-reveal/Zoom'
 
 
-import Modal from 'react-modal'
+
 
 
 
 function Portfolio() {
-    const [obj, setObj] = useState(null)
+    
 
 
-    const openModal=(x)=>{
-        setObj({...x})
-
-
-    }
+  
     return (
         <div className="p">
         <h1 className="p-h1">Portfolio</h1>
@@ -37,9 +33,9 @@ function Portfolio() {
             <h1>{x.tech}</h1>
 
             <a href={x.link}>
-            <button className="po-btn">view site</button>
+            <button className="po-btn">visit site</button>
             </a>
-            <button className="po-btn" onClick={()=>openModal(x)}>details</button>
+            
             
             
      
@@ -51,13 +47,7 @@ function Portfolio() {
             
             </div>
 
-            {
-                obj&&(<Modal isOpen={true}>
-                    <h1>this is model</h1>
-                    
-                    
-                    </Modal>)
-            }
+          
             
             
             </div>

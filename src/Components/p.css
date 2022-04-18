@@ -5,10 +5,12 @@
   flex-direction: column;
   align-items: center;
   background-color: rgb(197, 193, 193, 0.4);
+  background-color: rgb(2, 9, 29);
 }
 .p-h1 {
   text-transform: uppercase;
   font-family: "Poppins";
+  color:white;
 }
 .p-h1::after {
   content: " ";

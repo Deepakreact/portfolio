@@ -34,10 +34,10 @@ function Experience() {
         <div className="ex-c-left">
      
         <p>experience in 
-        developing websites in React JS development enviornment</p>
-        <p> experience in front-end development & deployement</p>
+        developing websites in React JS & Django RESTFramework development enviornment</p>
+        <p> experience in front-end / backend development & deployement</p>
         <p>experience in 
-        integration of React JS with REST Framework</p>
+        integration of React JS with Django RESTFramework</p>
         <p>Develop websites for different domains </p>
         <p>Experience in developing responsive UI/UX</p>
         <p>Experience in customer

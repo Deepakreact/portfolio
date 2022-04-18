@@ -30,9 +30,9 @@ function Slider() {
                 <h1 className="slider-left-h1">Hi I am Deepak Kumar</h1>
                 </Fade>
                 <Fade bottom>
-                <h4 className="slider-left-h4">A passionate Frontend Web Developer 
+                <h4 className="slider-left-h4">A passionate Full Stack Web Developer 
                 having an experience of building
-                 Web applications with JavaScript / Reactjs /</h4>
+                 Web applications with Reactjs / Django RestFramework </h4>
                  </Fade>
 
             </div>
