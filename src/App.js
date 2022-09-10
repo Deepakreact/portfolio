@@ -6,8 +6,8 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import MenuIcon from '@material-ui/icons/Menu';
-import WhatsAppWidget from 'react-whatsapp-widget'
-import 'react-whatsapp-widget/dist/index.css'
+//import WhatsAppWidget from 'react-whatsapp-widget'
+//import 'react-whatsapp-widget/dist/index.css'
 
 function App() {
   return (
@@ -39,7 +39,7 @@ function App() {
 
         </Switch>
 
-        <WhatsAppWidget phoneNumber='+919358358575' companyName='TechDeepak'/>
+  {/*<WhatsAppWidget phoneNumber='+919358358575' companyName='TechDeepak'/>*/}
         <div className="footer">
         <p>@Copyright Created & Developed By Deepak Sharma</p>
         

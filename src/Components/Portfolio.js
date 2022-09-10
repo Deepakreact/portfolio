@@ -1,7 +1,7 @@
 import React from 'react'
 import { portfolio } from '../data/pdata'
 import './p.css'
-import Zoom from 'react-reveal/Zoom'
+//import Zoom from 'react-reveal/Zoom'
 
 
 
@@ -21,12 +21,12 @@ function Portfolio() {
         {
             portfolio.map((x)=>
             <div className="p-card">
-            <Zoom>
+            
             
             <img src={x.image} alt="" className="p-card-img"></img>
             
            
-            </Zoom>
+            
             <div className="p-card-overlay">
             <div  className="p-card-overlay-c">
             <h3>Technology</h3>

@@ -1,13 +1,13 @@
 import React from 'react'
 import './work.css'
-import Zoom from 'react-reveal/Zoom'
+//import Zoom from 'react-reveal/Zoom'
 
 function WorkHistory() {
     return (
         <div className="work-t">
         <h1 className="work-t-h1" >Work History</h1>
         <div className="work">
-        <Zoom>
+        
    
         <div className="work-detail">
         <div className="company" >
@@ -29,8 +29,7 @@ function WorkHistory() {
         <p>Used photoshop to design social media images and infographic </p>
     
         </div>
-        </Zoom>
-        <Zoom>
+        
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
@@ -50,8 +49,8 @@ function WorkHistory() {
         <p>Used photoshop to design social media images and infographic </p>
   
         </div>
-        </Zoom>
-        <Zoom>
+        
+        
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
@@ -72,7 +71,7 @@ function WorkHistory() {
         <p></p>
       
         </div>
-        </Zoom>
+        
             
         </div>
         </div>
