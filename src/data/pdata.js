@@ -9,8 +9,8 @@ export const portfolio=[
 
     {
         image:'pimages/p1.jpg',
-        link:'https://futurelinksastro.com/',
-        tech:'React Js'
+        link:'https://cashknock.com/',
+        tech:'Django/React Js '
     },
      
     {
