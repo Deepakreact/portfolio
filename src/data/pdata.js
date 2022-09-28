@@ -12,6 +12,18 @@ export const portfolio=[
         link:'https://cashknock.com/',
         tech:'Django/React Js '
     },
+
+    {
+        image:'pimages/p1.jpg',
+        link:'https://dubucket.com/',
+        tech:'Laravel/React Js '
+    },
+
+    {
+        image:'pimages/p1.jpg',
+        link:'http://dev.heapdo.com/',
+        tech:'Laravel/React Js '
+    },
      
     {
         image:'pimages/p8.jpg',
