@@ -1,26 +1,26 @@
 export const portfolio=[
 
     {
-        image:'pimages/kkk.jpg',
-        link:'https://kattyenterprises.herokuapp.com/',
+        image:'pimages/cashknock.jpg',
+        link:'https://cashknock.com/',
         tech:'React Js,Redux, Django RestAPI, JWT, Material UI '
 
     },
 
     {
-        image:'pimages/p1.jpg',
-        link:'https://cashknock.com/',
+        image:'pimages/store.jpg',
+        link:'http://paul.cashknock.com/',
         tech:'Django/React Js '
     },
 
     {
-        image:'pimages/p1.jpg',
+        image:'pimages/store.jpg',
         link:'https://dubucket.com/',
         tech:'Laravel/React Js '
     },
 
     {
-        image:'pimages/p1.jpg',
+        image:'pimages/heapido.jpg',
         link:'http://dev.heapdo.com/',
         tech:'Laravel/React Js '
     },
