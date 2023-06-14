@@ -12,46 +12,45 @@ function WorkHistory() {
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>Virtual World Films</h4>
+        <h4>Gazing Technosoft Pvt Ltd </h4>
         
         </div>
       
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Graphics Designer</h4>
+        <h4>Full Stack Developer</h4>
         <p> </p>
 
         
         </div>
-        <p>Wedding album design using photoshop </p>
-        <p>Photo editing,Typography,color theory </p>
-        <p>Print design flayers,posters,business card</p>
-        <p>Used photoshop to design social media images and infographic </p>
+        <p> Django Rest Api Development</p>
+        <p>Api Integration in React js</p>
+        <p>HTML , CSS , JavaScript</p>
+        
     
         </div>
         
         <div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
-        <h4>D Jash World of Entertainment</h4>
+        <h4>Unifier Group</h4>
         
         </div>
         <div className="designation">
         <h2>Designation</h2>
-        <h4>Graphics Designer</h4>
+        <h4>Full Stack Developer</h4>
         <p> </p>
 
         
         </div>
-        <p>Wedding album design using photoshop </p>
-        <p>Photo editing,Typography,color theory </p>
-        <p>Print design flayers,posters,business card</p>
-        <p>Used photoshop to design social media images and infographic </p>
+        <p> Django Rest Api Development</p>
+        <p>Api Integration in React js</p>
+        <p>HTML , CSS , JavaScript</p>
   
         </div>
         
         
-        <div className="work-detail">
+        {/*<div className="work-detail">
         <div className="company" >
         <h2>Company</h2>
         <h4>Mark Computer Software</h4>
@@ -70,7 +69,7 @@ function WorkHistory() {
         <p>Weekly visit to customer for  software performance checking  </p>
         <p></p>
       
-        </div>
+    </div>*/}
         
             
         </div>
