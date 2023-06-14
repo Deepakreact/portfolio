@@ -9,7 +9,7 @@
 }
 .p-h1 {
   text-transform: uppercase;
-  font-family: "Poppins";
+  /* font-family: "Poppins"; */
   color:white;
 }
 .p-h1::after {
@@ -57,14 +57,14 @@
 .p-card-overlay-c h3 {
   color: white;
   font-size: 15px;
-  font-family: 'Roboto';
+  /* font-family: 'Roboto'; */
   font-weight: 300;
   letter-spacing: 3px;
 }
 .p-card-overlay-c h1 {
   color: white;
   font-size: 15px;
-  font-family: 'Roboto';
+  /* font-family: 'Roboto'; */
   font-weight: 300;
   letter-spacing: 3px;
 }
@@ -77,12 +77,12 @@
   top: 0;
 }
 .po-btn {
-  font-family: 'Roboto';
+  /* font-family: 'Roboto'; */
   text-transform: uppercase;
   font-weight: 300;
   letter-spacing: 3px;
   padding: 5px;
-  width: 150px;
+  width: 100px;
   background-color: rgb(15, 15, 15, 0.5);
   border: 1px solid white;
   color: white;

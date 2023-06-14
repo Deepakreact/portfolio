@@ -31,7 +31,7 @@ function Slider() {
                 
                 
                 <h4 className="slider-left-h4">A passionate Full Stack Web Developer 
-                having an experience of building
+                having  3.5 year experience of building
                  Web applications with Reactjs / Django RestFramework </h4>
                  
 

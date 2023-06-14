@@ -23,9 +23,10 @@ function App() {
           
             </ul>
             <ul className="social-links">
+        
+              <a href="https://www.linkedin.com/in/deepak-sharma-software-developer"><LinkedInIcon /></a>
               <a href="/"><FacebookIcon /></a>
               <a href="/"><InstagramIcon /></a>
-              <a href="/"><LinkedInIcon /></a>
 
             </ul>
 
